@@ -1,0 +1,5 @@
+streamlit==1.36.0
+supabase==2.5.1
+pandas
+plotly==5.22.0
+streamlit-authenticator==0.3.3
